@@ -6,8 +6,6 @@ VERSION = 0.8.5
 # paths
 PREFIX = /usr/local
 MANPREFIX = $(PREFIX)/share/man
-ICONPREFIX = $(PREFIX)/share/pixmaps
-ICONNAME = st.png
 
 X11INC = /usr/X11R6/include
 X11LIB = /usr/X11R6/lib
